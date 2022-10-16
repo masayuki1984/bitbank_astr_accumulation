@@ -1,0 +1,1 @@
+# bitbank_astr_accumulation
